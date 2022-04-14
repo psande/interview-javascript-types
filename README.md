@@ -4,7 +4,16 @@ Javascript screening for a fintech company.
 
 `Status: Completed`
 
-### interview-javascript-types
+### Running the project
+First run:
+
+`npm install`
+
+Once completed:
+
+`npm start`
+
+### Instructions
 
 Terms of the Exercise
 
